@@ -1,4 +1,4 @@
 my first file
-test
+text
 gitlib2
 gitlib1
