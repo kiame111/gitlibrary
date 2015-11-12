@@ -2,3 +2,4 @@ my first file
 text
 gitlib2
 gitlib1
+test
