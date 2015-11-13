@@ -1,1 +1,2 @@
 new txt
+change from bug-1
